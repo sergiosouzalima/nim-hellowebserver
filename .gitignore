@@ -1,5 +1,6 @@
 nimcache/
 nimblecache/
 htmldocs/
+*.swp
 hellowebserver
 test1
