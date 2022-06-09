@@ -108,7 +108,11 @@ How this project can be used.
    ```sh
    nimble run
    ```
-7. If you want to run tests
+7. In your browser, visit
+   ```sh
+   localhost:8080
+   ```
+8. If you want to run tests
    ```sh
    nimble test
    ```
