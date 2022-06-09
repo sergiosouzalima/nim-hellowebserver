@@ -56,7 +56,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sergiosouzalima/nim-hellowebserver">
-    <img src="images/about_the_project_01.png" alt="About the project" width="240" height="240">
+    <img src="images/about_the_project_01.png" alt="About the project">
   </a>
 </div>
 
