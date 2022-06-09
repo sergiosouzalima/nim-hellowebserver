@@ -15,7 +15,6 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sergiosouzalima/nim-hellowebserver">View Demo</a>
     ·
     <a href="https://github.com/sergiosouzalima/nim-hellowebserver/issues">Report Bug</a>
     ·
@@ -104,15 +103,15 @@ How this project can be used.
    ```
 5. Compile source code
    ```sh
-   nimble compile src/hellowebserver;
+   nimble compile src/hellowebserver
    ```
 6. Run web server
    ```sh
-   nimble run;
+   nimble run
    ```
 7. If you want to run tests
    ```sh
-   nimble test;
+   nimble test
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
