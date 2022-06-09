@@ -12,9 +12,10 @@
   <p align="center">
     A minimalist Hello World Web Server made with Nim Language.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sergiosouzalima/nim-hellowebserver"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+
     <a href="https://github.com/sergiosouzalima/nim-hellowebserver/issues">Report Bug</a>
     ·
     <a href="https://github.com/sergiosouzalima/nim-hellowebserver/issues">Request Feature</a>
